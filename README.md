@@ -24,7 +24,7 @@
 * s53 
 * s54
 * s55
-### Este repositorio se actualizara cada semana.
+### Este repositorio se actualizara cada dia.
 ## Bienvenidos/as al repositorio de la unidad 3 💜💻.
 ##### Creado por: Guadalupe Campos.
 
