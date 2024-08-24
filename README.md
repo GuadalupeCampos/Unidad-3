@@ -1,9 +1,9 @@
 # Unidad 3 😸👋 
 ## Bienvenidos a la unidad 3 😸 en este repositorio encontraras todas las semanas de las unidad:
  ### semana 8 contiene💻:
-* s36 ✔️
+* s36✔️
 * s37✔️
-* s38
+* s38✔️
 * s39
 * s40
 ### semana 9 contiene 💻:
