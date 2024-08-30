@@ -8,7 +8,7 @@
 * s40✔️(avance del proyecto)
 ### semana 9 contiene 💻:
 * s41✔️
-* s42
+* s42✔️
 * s43
 * s44 
 * s45
