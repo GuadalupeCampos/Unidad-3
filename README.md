@@ -9,7 +9,7 @@
 ### semana 9 contiene 💻:
 * s41✔️
 * s42✔️
-* s43
+* s43✔️
 * s44 
 * s45
 ### semana 10 contiene💻:
