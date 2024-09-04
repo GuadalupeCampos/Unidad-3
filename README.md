@@ -10,11 +10,11 @@
 * s41✔️
 * s42✔️
 * s43✔️
-* s44 
-* s45
+* s44✔️(avance de proyecto)
+* s45✔️(avance de proyecto)
 ### semana 10 contiene💻:
-* s46
-* s47
+* s46✔️(teoria)
+* s47✔️
 * s48 
 * s49
 * s50 
