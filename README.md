@@ -15,8 +15,8 @@
 ### semana 10 contiene💻:
 * s46✔️(teoria)
 * s47✔️
-* s48 
-* s49
+* s48✔️(teoria)
+* s49✔️
 * s50 
 ### semana 11 contiene💻:
 * s51
