@@ -1,8 +1,12 @@
 body {
   background-color: bisque;
-  color: rgb(250, 200, 82);
+  color: rgb(51, 221, 255);
 }
 p {
-  color: rgb(242, 143, 44);
+  color: rgb(247, 27, 255);
   font-size: 30px;
+}
+
+hr {
+  color: brown;
 }
