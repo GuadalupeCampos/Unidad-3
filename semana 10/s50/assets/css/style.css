@@ -1,8 +1,8 @@
 body {
   background-color: bisque;
-  color: midnightblue;
+  color: rgb(250, 200, 82);
 }
 p {
-  color: blueviolet;
+  color: rgb(242, 143, 44);
   font-size: 30px;
 }
