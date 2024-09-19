@@ -17,15 +17,16 @@
 * s47✔️
 * s48✔️(teoria)
 * s49✔️
-* s50✔️s
+* s50✔️
 ### semana 11 contiene💻:
-* s51
-* s52
-* s53 
-* s54
-* s55
+* s51✔️ (git hub colaborativo)
+* s52✔️(avance de proyecto)
+* s53✔️(avance de proyecto)
+* s54✔️(repaso)
+* s55✔️(proyecto finalizado)
 ### Este repositorio se actualizara cada dia.
 ## Bienvenidos/as al repositorio de la unidad 3 💜💻.
+## Gracias por visitar este repositorio.
 ##### Creado por: Guadalupe Campos.
 
  
